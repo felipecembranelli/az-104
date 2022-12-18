@@ -1,4 +1,6 @@
-# my-az-104
+# Az-104
+
+Notes for Microsoft Azure Administrator Certification
 
 ## Azure DNS
 
