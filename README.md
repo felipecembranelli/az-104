@@ -2,6 +2,18 @@
 
 Notes for Microsoft Azure Administrator Certification
 
+
+## Microsoft Offical Curriculum (MOC)
+
+https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
+
+Labs
+
+https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/
+
+
+# My Notes
+
 ## Azure DNS
 
 
