@@ -14,6 +14,13 @@ https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/
 
 # My Notes
 
+## Monitor and Troubleshoot virtual network
+
+It is done via Network Performance Monitor (market place product). It provides 3 features:
+- performance monitor
+- service connectivity monitor
+- expressRoute
+
 ## Azure DNS
 
 
